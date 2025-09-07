@@ -1,0 +1,54 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build output
+*.o
+*.a
+*.lo
+*.la
+*.ll
+*.bc
+*.s
+*.swp
+*.swo
+
+# Go binary
+*.exe
+*.exe~
+*.test
+*.out
+
+# Coverage reports
+*.cover
+*.cov
+*.lcov
+coverage.*
+
+# Build artifacts
+bin/
+dist/
+build/
+
+# Vendor (if you don't vendor dependencies, keep this ignored)
+vendor/
+
+# Go workspace file (optional, if you don’t want it tracked)
+go.work
+
+# Logs
+*.log
+
+# Editor/IDE junk
+.vscode/
+.idea/
+*.iml
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
