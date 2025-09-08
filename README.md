@@ -1,5 +1,7 @@
 # go-setsum
 
+[![CI](https://github.com/ozkatz/setsum/actions/workflows/ci.yml/badge.svg)](https://github.com/ozkatz/setsum/actions/workflows/ci.yml) ![Coverage](coverage.svg)
+
 This is a Go port of [setsum](https://github.com/rescrv/blue/tree/main/setsum): An associative and commutative checksum that offers standard multi-set operations over strings in constant time.
 
 From the original README:
